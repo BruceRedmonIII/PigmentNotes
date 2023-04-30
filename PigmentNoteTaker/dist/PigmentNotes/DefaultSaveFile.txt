@@ -1,0 +1,8 @@
+
+ Code = 781 Color = Red Wash Time = front left hours Skids = 13 Bag Type = R-49 Direct Ship = front left Pumping Time = 5 Drain Time = 7 Comments = this is a comment
+
+ Code = 068 Color = red Wash Time = 1 Skids = 2 Bag Type = 3 Direct Ship = 4 Pumping Time = 5 Drain Time = 6 Comments = 7
+
+ Code = 4488 Color = Red Wash Time = 5 hours Skids = 13 Bag Type = Ba Free Direct Ship = back right Pumping Time = 4 hours Drain Time = none Comments = Red azo, use cages
+
+ Code = 4480 Color = Yellow Wash Time = 5 hours Skids = 12-13 Bag Type = Y-12s Direct Ship = back right Pumping Time = 3 hours Drain Time = none Comments = In yellow azo, use cages
